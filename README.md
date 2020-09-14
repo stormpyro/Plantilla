@@ -1,3 +1,3 @@
-# ieee-cs-fiei
-Repositorio de la página oficial de Computer
-LISTO YA ESTA BY RICHI
+# Plantilla lp3
+
+Repo de la página para el chatbot
